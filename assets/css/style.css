@@ -9,11 +9,21 @@
 body {
     font-family: Raleway, sans-serif;
     font-weight: 300;
-    background-color: rgb(62, 117, 105);
+    background-color: #B2C5B2;
     color: #D5DDDF;
 }
 
 /* Header and Logo */
+
+header {
+    height: 150px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #3C5148;
+
+}
 
 #logo {
     font-size: 280%;
@@ -22,5 +32,48 @@ body {
     text-transform: uppercase;
     letter-spacing: 1px;
     float: left;
+    border: solid 3px #D5DDDF;
+    margin-left: 30px;
+    line-height: 75px;
 }
+
+/* Menu */
+
+#menu {
+    font-size: 150%;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    float: right;
+    margin-right: 30px;
+    list-style-type: none;
+}
+
+#menu li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: #D5DDDF;
+    border-top: solid 3px #D5DDDF;
+    border-bottom: solid 3px #D5DDDF;
+}
+
+.active {
+    border-right: solid 3px #D5DDDF;
+    border-left: solid 3px #D5DDDF;
+}
+
+.transition {
+    transition: color .5s;
+    transition: background-color .5s;
+}
+
+#menu a:hover {
+    color: #3C5148;
+    background-color: #D5DDDF;
+}
+
 
