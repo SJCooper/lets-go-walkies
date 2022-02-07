@@ -4,7 +4,7 @@
     margin: 0;
     padding: 0;
     border: none;
-    box-sizing: boredr-box;
+    box-sizing: border-box;
 }
 
 body {
@@ -101,6 +101,10 @@ header {
 }
 
 h2 {
+    border-top: dotted 5px #3C5148;
+    border-bottom: dotted 5px #3C5148;
     text-align: center;
     margin: auto;
 }
+
+/* Gallery */
