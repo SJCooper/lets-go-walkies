@@ -14,6 +14,8 @@ body {
     color: #D5DDDF;
 }
 
+
+
 /* Header and Logo */
 
 header {
@@ -23,6 +25,8 @@ header {
     justify-content: space-between;
     align-items: center;
     background-color: #3C5148;
+    position: sticky;
+    top: 0;
 
 }
 
