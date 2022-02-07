@@ -117,15 +117,15 @@ footer {
 
 .social-networks {
     text-align: center;
-    font-size: 300%;
-    line-height: 75px;
-    list-style-type: none;
 }
 
 .social-networks > li {
-    display: inline-block;
+    display: inline;
 }
 
 .social-networks i {
+    font-size: 350%; 
     color: #D5DDDF;
+    margin: auto;
+    padding: 1%
 }
