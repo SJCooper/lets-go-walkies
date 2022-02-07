@@ -4,6 +4,7 @@
     margin: 0;
     padding: 0;
     border: none;
+    box-sizing: boredr-box;
 }
 
 body {
@@ -80,13 +81,26 @@ header {
 /* hero image and tag line text */
 
 #hero-image {
+    display: flex;
     height: 1000px;
     width: 60%;
-    margin: 1%;
-    padding: 50px;
     overflow: hidden;
     background: url('../images/jamie-street-zPHX8NscQ9o-unsplash.jpg') no-repeat center center;
     background-size: cover;
     float: left;
-    background-position: 0% 80%;
+    background-position: 0% 75%;
+}
+
+#headline {
+    display: flex;
+    font-size: 400%;
+    color: #3C5148;
+    height: 1000px;
+    width: 40%;
+    float: right;
+}
+
+h2 {
+    text-align: center;
+    margin: auto;
 }
