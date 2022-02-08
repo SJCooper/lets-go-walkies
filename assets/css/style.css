@@ -115,21 +115,31 @@ footer {
     height: 150px;
     width: 100%;
     background-color: #3C5148;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.links > li{
+    list-style-type: none;
 }
 
 .social-networks {
-    text-align: center;
-}
-
-.social-networks > li {
-    display: inline;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .social-networks i {
+    margin: 20px;
     font-size: 350%; 
     color: #D5DDDF;
-    margin: auto;
-    padding: 1%
 }
 
 /* Gallery */
