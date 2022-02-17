@@ -110,7 +110,7 @@ h2 {
 
 /* about us section */
 
-#about {
+#info {
     display: flex;
     justify-content: space-evenly;
     align-items: center;
@@ -181,9 +181,9 @@ footer {
     width: 100%;
 }
 
-/* About us section */
+/* info card section */
 
-#about {
+#info {
     height: 1000px;
     width: 100%;
     background-color: #3C5148;
@@ -193,6 +193,24 @@ footer {
 /* Upcoming events section */
 
 #upcoming {
+    height: 1000px;
+    width: 100%;
+    background-color: #D5DDDF;
+    clear: both;
+}
+
+/* About us section */
+
+#about {
+    height: 1000px;
+    width: 100%;
+    background-color: #D5DDDF;
+    clear: both;
+}
+
+/* Sign up Page */
+
+#signup {
     height: 1000px;
     width: 100%;
     background-color: #D5DDDF;
