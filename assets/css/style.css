@@ -223,7 +223,6 @@ footer {
     font-size: 200%;
     margin-top: 200px;
     margin-left: 5%; 
-    position: absolute;
     left: 15%;
     padding: 50px;
     background-color: rgba(213, 221, 223, 0.7);
@@ -300,11 +299,7 @@ footer {
     padding: 10px;
 }
 
-.meet-left > h2 {
-    font-size: 350%;
-} 
-
-.meet-right > h2 {
+.where {
     font-size: 350%;
 } 
 
