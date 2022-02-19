@@ -219,7 +219,7 @@ footer {
 
 #signup-form {
     position: absolute;
-    height: 58%;
+    height: 55%;
     font-size: 200%;
     margin-top: 200px;
     margin-left: 5%; 
@@ -264,4 +264,17 @@ footer {
 .submit-button:hover {
     color: #3C5148;
     background-color: #D5DDDF;
+}
+
+/* Upcoming events page */
+
+#upcoming {
+    height: auto;
+}
+
+#upcoming h2 {
+    border: none;
+}
+.meet-right {
+    background-color: #3C5148;
 }
