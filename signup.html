@@ -38,6 +38,58 @@
 
     <section id="signup">
         <div id ="signup-image"></div>
+
+                <form action="https://formdump.codeinstitute.net" method="post">
+                
+                    <label for="first-name">First Name:</label> 
+                    <input id="first-name" type="text" name="first-name" required>
+
+                    <label for="last-name">Last Name:</label> 
+                    <input id="last-name" type="text" name="last-name"required>
+
+                    <label for="email">Contact Email:</label> 
+                    <input id="email" type="email" name="email" required>
+
+                    <label for="number">Number Of Dogs:</label>
+                    <select id="number" name="number-of-dogs">
+                    
+                        <option value="one" selected>1</option>
+                        <option value="two - three">2 - 3</option>
+                        <option value="four or more">4 or more</option>
+                       
+                    </select>
+                    
+                    
+                    <label for="breed">Dog Breed (if more than one dog select "Multiple"):</label>
+                    <input list="breeds" id="breed" name="breed" type="text"/>
+                
+                    <datalist id="breeds">
+                        <option value="Multiple"></option>
+                        <option value="Akita"></option>
+                        <option value="Beagle"></option>
+                        <option value="Corgi"></option>
+                        <option value="Dachshund"></option>
+                        <option value="English Bulldog"></option>
+                        <option value="French Bulldog"></option>
+                        <option value="German Shepherd"></option>
+                        <option value="Havanese"></option>
+                        <option value="Irish Red Setter"></option>
+                        <option value="Jack Russel Terrier"></option>
+                        <option value="Kokoni"></option>
+                        <option value="Labrador"></option>
+                        <option value="Maltese"></option>
+                        <option value="Nova Scotia Retriever"></option>
+                        <option value="Old English Sheepdog"></option>
+                        <option value="Pomeranian"></option>
+                        <option value="Redbone Coonhound"></option>
+                        <option value="St. Bernard"></option>
+                        <option value="Tibetan Spaniel"></option>
+                    </datalist>
+
+                    <input id="submit" type="submit" value="SUBMIT!">
+
+                </form>
+
     </section>
     <footer>
         <ul class="links">
