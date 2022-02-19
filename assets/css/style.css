@@ -101,7 +101,7 @@ header {
     float: right;
 }
 
-h2 {
+#headline > h2 {
     border-top: dotted 5px #3C5148;
     border-bottom: dotted 5px #3C5148;
     text-align: center;
@@ -272,9 +272,39 @@ footer {
     height: auto;
 }
 
-#upcoming h2 {
-    border: none;
+.meet-left {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #D5DDDF;
 }
+
 .meet-right {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    align-items: center;
     background-color: #3C5148;
+}
+
+.where {
+    font-size: 200%;
+    font-weight: 900;
+    font-style: italic;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    line-height: 200px;
+    padding: 10px;
+}
+
+.meet-right .where {
+    color: #D5DDDF;
+} 
+
+.meet-right > h3 {
+    color: #D5DDDF;
+} 
+
+.mapouter {
+    overflow: hidden;
 }
