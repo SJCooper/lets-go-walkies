@@ -184,7 +184,7 @@ footer {
 /* info card section */
 
 #info {
-    height: 1000px;
+    height: 1200px;
     width: 100%;
     background-color: #3C5148;
     clear: both;
@@ -193,7 +193,7 @@ footer {
 /* Upcoming events section */
 
 #upcoming {
-    height: 1000px;
+    height: 1200px;
     width: 100%;
     background-color: #D5DDDF;
     clear: both;
@@ -202,7 +202,7 @@ footer {
 /* About us section */
 
 #about {
-    height: 1000px;
+    height: 1200px;
     width: 100%;
     background-color: #D5DDDF;
     clear: both;
@@ -210,9 +210,14 @@ footer {
 
 /* Sign up Page */
 
-#signup {
-    height: 1000px;
+#signup-image {
+    display: flex;
+    height: 1200px;
     width: 100%;
-    background-color: #D5DDDF;
+    overflow: hidden;
+    background: url('../images/jamie-street-zPHX8NscQ9o-unsplash.jpg') no-repeat center center;
+    background-size: cover;
     clear: both;
 }
+
+
