@@ -211,7 +211,6 @@ footer {
 /* Sign up page / sign up form */
 
 #signup-image {
-    display: flex;
     height: 1200px;
     width: 100%;
     background: url('../images/jamie-street-zPHX8NscQ9o-unsplash.jpg') no-repeat center center;
@@ -219,19 +218,50 @@ footer {
 }
 
 #signup-form {
-    height: 40%;
+    position: absolute;
+    height: 58%;
     font-size: 200%;
-    margin-top: 150px;
+    margin-top: 200px;
     margin-left: 5%; 
-    max-width: 20%;
     position: absolute;
     left: 15%;
     padding: 50px;
     background-color: rgba(213, 221, 223, 0.7);
 }
 
+.text-input {
+    background-color: #D5DDDF;
+    color: #3C5148;
+    width: 100%;
+    height: 40px;
+    margin: 5px 0 20px 0;
+    border: 1px solid #D5DDDF;
+    border-radius: 2px;
+}
+  
+.text-input:hover {
+        border-color: #3C5148;
+        background-color: #D5DDDF
+    }
 
+.submit-button {
+    font-family: Raleway, sans-serif;
+    font-size: 110%;
+    font-weight: 900;
+    font-style: italic;
+    color: #D5DDDF;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-top: 20px;
+    border-radius: 3px;
+    border: 2px solid #3C5148;
+    padding: 10px 40px 10px 40px;
+    text-align: center;
+    
+    background-color: #3C5148;
+}
 
-
-
-
+.submit-button:hover {
+    color: #3C5148;
+    background-color: #D5DDDF;
+}

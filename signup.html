@@ -38,7 +38,7 @@
 
     <section id="signup">
         <div id ="signup-image">
-            <div id="form">  
+            <div id="form"></div>  
                     <form id="signup-form" action="https://formdump.codeinstitute.net" method="post">
                 
                         <div>
@@ -58,7 +58,7 @@
 
                         <div>
                             <label for="number">Number Of Dogs:</label>
-                            <select id="number" name="number-of-dogs">
+                            <select class="text-input" id="number" name="number-of-dogs">
                                 <option value="1" selected>1</option>
                                 <option value="2 - 3">2 - 3</option>
                                 <option value="4+">4 or more</option>
@@ -67,7 +67,7 @@
                     
                     
                         <div>
-                            <label for="breed">Dog Breed (if more than one dog select "Multiple"):</label>
+                            <label for="breed">Dog Breed (if more than one breed select "Multiple"):</label>
                             <input class="text-input" list="breeds" id="breed" name="breed" type="text"/>
                             <datalist id="breeds">
                                 <option value="Multiple"></option>
@@ -93,10 +93,10 @@
                             </datalist>
                         </div>
 
-                        <input class="submit-button" type="submit" value="Let's Go Walkies!">
+                        <input class="submit-button" type="submit" value="Let's Go Walkies!" required>
 
                     </form>
-            </div>
+            
         </div>
     </section>
     <footer>
