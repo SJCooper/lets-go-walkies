@@ -210,25 +210,19 @@ footer {
 
 /* Sign up page */
 
-#signup {
-    position: relative;
-}
-
 #signup-image {
-    display: flex; 
+    display: flex;
     height: 1200px;
     width: 100%;
-    overflow: hidden;
     background: url('../images/jamie-street-zPHX8NscQ9o-unsplash.jpg') no-repeat center center;
     background-size: cover;
 }
 
 #form {
-    position: absolute;
-    height: 100%;
-    width: 30%;
-    align-self: center;
-    background-color: red;
+    height: 50%;
+    width: 50%;
+    margin: auto;
+    background-color: rgba(213, 221, 223, 0.7);
 }
 
 
