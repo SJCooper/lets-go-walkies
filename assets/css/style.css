@@ -270,6 +270,7 @@ footer {
 
 #upcoming {
     height: auto;
+    overflow: hidden;
 }
 
 .meet-left {
@@ -277,6 +278,7 @@ footer {
     justify-content: center;
     align-items: center;
     background-color: #D5DDDF;
+    padding: 10px;
 }
 
 .meet-right {
@@ -285,6 +287,7 @@ footer {
     justify-content: center;
     align-items: center;
     background-color: #3C5148;
+    padding: 10px;
 }
 
 .where {
@@ -297,14 +300,23 @@ footer {
     padding: 10px;
 }
 
+.meet-left > h2 {
+    font-size: 350%;
+} 
+
+.meet-right > h2 {
+    font-size: 350%;
+} 
+
+.meet-left > h3 {
+    padding: 10px;
+} 
+
 .meet-right .where {
     color: #D5DDDF;
 } 
 
 .meet-right > h3 {
     color: #D5DDDF;
+    padding: 10px;
 } 
-
-.mapouter {
-    overflow: hidden;
-}
