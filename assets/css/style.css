@@ -376,7 +376,7 @@ footer {
         position: absolute;
         height: 25%;
         font-size: 200%;
-        color: #D5DDDF;
+        color: #3c5148;
         width: 100%;
         z-index: 2;
     }
@@ -386,6 +386,8 @@ footer {
         border-bottom: none;
         text-align: center;
         margin-top: 50px;
+        background-color:rgba(213, 221, 223, 0.6);
+        outline: 2px solid black;
     }
 }
 
