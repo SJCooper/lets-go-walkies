@@ -11,17 +11,27 @@ Let's Go Walkies is a site that introduces people and their pets to a dog hiking
 
 - __Navigation Bar__
 
-  - Featured on all pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation. 
+  - Featured on all pages, the full responsive navigation bar includes links to the Logo, Home page, Upcoming Events, Gallery and Sign Up page and is identical in each page to allow for easy navigation. 
+  - The navigation link of the currently viewed site is displayed differently (complete outline) to allow the user to quicky see what part of the site they are viewing.
+  - When hovering over a navigation bar element, the elemnts colors will invert with a subtle animation to allow the user to easily see what they are selecting.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. The navigation bar is also sticky and always visable to allow for immediate navigation when required by the user.
 
 ![Nav Bar](assets/images/Navbar.png)
 
-- __The landing page image__
+- __The landing Page Image and Headline__
 
-  - The landing page includes a photograph with headline text to one side to allow the user to see exactly who this site is aiming to connect with. 
+  - The landing page includes a hero image with headline text to one side to allow the user to see exactly who this site is aiming to connect with. 
   - This is the first thing someone visiting the site will see so is presented in a clear and concise way to convey the main site focus to the user.
 
 ![Landing Page Hero Image and Headline](assets/images/HeroImageAndHeadline.png)
+
+
+
+
+
+
+
+
 
 - __Club Ethos Section__
 
