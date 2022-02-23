@@ -12,7 +12,7 @@ INSERT MOCKUP SCREENSHOT HERE
 - __Navigation Bar__
 
   - Featured on all pages, the fully responsive navigation bar includes links to the Home page (from the site logo and home page navigation link), Upcoming events page, Gallery page and Sign Up page.
-  -  The navigation bar is identical on each page to allow for easy site and page navigation. 
+  - The navigation bar is identical on each page to allow for easy site and page navigation. 
   - The navigation link of the currently viewed page is displayed differently (complete solid border) to allow the user to quicky see what part of the site they are viewing.
   - When hovering over a navigation bar element, the elements colors will invert with a subtle animation to allow the user to easily see what they are selecting.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. The navigation bar is also sticky and always visable to allow for immediate navigation when required by the user.
@@ -53,21 +53,23 @@ INSERT ABOUT US SCREENSHOT HERE
   - The gallery will provide the user with supporting images to see what the meet ups look like. 
   - This section is valuable to the user as they can see the types of walks the group has completed in the past. 
 
-![Gallery Page](assets/images/gallery.png)
+![Upcoming Events Page](assets/images/gallery.png)
 
 - __The Sign Up Page__
 
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
+  - This page will allow the user to get signed up to Let's Go Walkies newsletters mailing . 
+  - The user will be able to specify how many dogs and of what breeds they are. This can help facilitate introductions between the group and may help the user to find commanalities with current members.
+  - The user will be asked to submit their full name and email address. 
 
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
-
-For some/all of your features, you may choose to reference the specific project files that implement them.
-
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+![Sign Up Page](assets/images/sign-up.png)
 
 ### Features Left to Implement
 
-- Another feature idea
+- __Photo Submission__
+
+  - A form with a file browser element to allow for community members to upload photos from events for submission to be added to the gallery page. 
+  - This will add to the level of inclusion for community members.
+  - This will add to the exposure for the group as photos could be shown and shared with people outside of the group by current group members.
 
 ## Testing 
 
@@ -79,8 +81,9 @@ You should also mention in this section any interesting bugs or problems you dis
 
 If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
-
 ### Validator Testing 
+
+MAKE SURE TO DO THE VALIDATOR CHECKS AGAIN ONCE ALL SITE FEATURES ARE IMPLIMENTED!!!!!!
 
 - HTML
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
