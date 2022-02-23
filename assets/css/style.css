@@ -404,8 +404,8 @@ footer {
     }
 
     #menu li a {
-        font-size: 80%;
-        margin: 3px;
+        font-size: 75%;
+        margin: auto;
         width: 100%; 
         display: inline-block;
         text-align: center;
