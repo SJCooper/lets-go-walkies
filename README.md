@@ -1,23 +1,21 @@
 # Let's Go Walkies
 
-In this section, you will include one or two paragraphs providing an overview of your project. Essentially, this part is your sales pitch. At this stage, you should have a name for your project so use it! Don’t introduce the project as a Portfolio project for the diploma. In this section, describe what the project hopes to accomplish, who it is intended to target and how it will be useful to the target audience. 
 
-For example; Love Running is a site that hopes to help keep people motivated to meet up for runs on a regular basis in Dublin, Ireland. The site will be targeted toward runners who are looking for a way to socialise and keep themselves fit. Love Running will be useful for runners to see exactly when and where they should be to join the running club. 
+Let's Go Walkies is a site that introduces people and their pets to a dog hiking group based in the north west of england. The site offers open and free information regarding events and allows people to sign up for event newsletters and updates. Let's Go Walkies is aimed at dog owners that enjoy socialising their pets and those who might prefer group walks and hikes as oppose to solitary ones. The aim of the site is to aid the growth of the community and to give dog walkers potential new ideas as to suitable dog friendly areas to take their dogs.
+\
 
 ![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
 
 ## Features 
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
-
 ### Existing Features
 
 - __Navigation Bar__
 
-  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
-  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
+  - Featured on all pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation. 
+  - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. The navigation bar is also sticky and always visable to allow for immediate navigation when required by the user.
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+![Nav Bar](../lets-go-walkies/assets/images/Navbar.png)
 
 - __The landing page image__
 
