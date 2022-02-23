@@ -313,31 +313,34 @@ footer {
 
 @media screen and (max-width: 1200px){
 
-    #photos {
-        column-count: 3;
+    header {
+        display: grid;
+    }
+    
+    #logo {
+        width: auto;
+        font-size: 240%;
+        align-items: center;
+        justify-content: center;
+        margin: auto;
+        padding: 10px;
     }
 
-    #logo {
-        margin: auto;
+    #logo > h1 {
+       
     }
     
-    /* Menu nav links */
-    
     #menu {
-        font-size: 150%;
-        font-weight: 700;
-        text-transform: uppercase;
-        letter-spacing: 1px;
-        float: right;
-        margin-right: 30px;
-        list-style-type: none;
+              
     }
     
     #menu li {
-        display: inline-block;
-        margin-right: 10px;
+       margin: 5px;  
     }
 
+    #photos {
+        column-count: 3;
+    }
 }
 
 /* Medium size screens <= 950px */
