@@ -15,7 +15,7 @@ Let's Go Walkies is a site that introduces people and their pets to a dog hiking
   - Featured on all pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation. 
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. The navigation bar is also sticky and always visable to allow for immediate navigation when required by the user.
 
-![Nav Bar](../lets-go-walkies/assets/images/Navbar.png)
+![Nav Bar](assets/images/Navbar.png)
 
 - __The landing page image__
 
