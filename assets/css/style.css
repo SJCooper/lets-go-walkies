@@ -334,6 +334,16 @@ footer {
         margin: 5px; 
     }
 
+    #hero-image {
+        width: 50%;
+    }
+    
+    #headline {
+        font-size: 300%;
+        width: 50%;
+        float: right;
+    }
+
     #photos {
         column-count: 3;
     }
