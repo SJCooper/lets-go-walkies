@@ -2,7 +2,6 @@
 
 
 Let's Go Walkies is a site that introduces people and their pets to a dog hiking group based in the north west of england. The site offers open and free information regarding events and allows people to sign up for event newsletters and updates. Let's Go Walkies is aimed at dog owners that enjoy socialising their pets and those who might prefer group walks and hikes as oppose to solitary ones. The aim of the site is to aid the growth of the community and to give dog walkers potential new ideas as to suitable dog friendly areas to take their dogs.
-\
 
 ![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
 
@@ -19,10 +18,10 @@ Let's Go Walkies is a site that introduces people and their pets to a dog hiking
 
 - __The landing page image__
 
-  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
+  - The landing page includes a photograph with headline text to one side to allow the user to see exactly who this site is aiming to connect with. 
+  - This is the first thing someone visiting the site will see so is presented in a clear and concise way to convey the main site focus to the user.
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
+![Landing Page Hero Image and Headline](assets/images/HeroImageAndHeadline.png)
 
 - __Club Ethos Section__
 
