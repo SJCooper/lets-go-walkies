@@ -39,7 +39,7 @@ INSERT ABOUT US SCREENSHOT HERE
   - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media.
 
-![Upcoming Events Page](assets/images/footer-links.png)
+![Footer and Social Links](assets/images/footer-links.png)
 
 - __Upcoming Events page__
 
@@ -54,7 +54,7 @@ INSERT ABOUT US SCREENSHOT HERE
   - This section is valuable to the user as they can see the types of walks the group has completed in the past. 
   - The gallery is styled in a masonary style which makes transitioning to smaller screensizes using fewer columns much simpler and keeps the flow of the gallery as smooth as possible.
 
-![Upcoming Events Page](assets/images/gallery.png)
+![Gallery Page](assets/images/gallery.png)
 
 - __The Sign Up Page__
 
@@ -113,6 +113,8 @@ In this section you need to reference where you got your content, media and extr
 
 You can break the credits section up into Content and Media, depending on what you have included in your project. 
 
+ADD PHOTO CREDITS, GOOGLE MAPS, CODE INSTITUTE LOVE RUNNING README TEMPLATE, FONT AWESOME, GOOGLE FONTS...
+
 ### Content 
 
 - The text for the Home page was taken from Wikipedia Article A
@@ -123,23 +125,3 @@ You can break the credits section up into Content and Media, depending on what y
 
 - The photos used on the home and sign up page are from This Open Source site
 - The images used for the gallery page were taken from this other open source site
-
-
-Congratulations on completing your Readme, you have made another big stride in the direction of being a developer! 
-
-## Other General Project Advice
-
-Below you will find a couple of extra tips that may be helpful when completing your project. Remember that each of these projects will become part of your final portfolio so it’s important to allow enough time to showcase your best work! 
-
-- One of the most basic elements of keeping a healthy commit history is with the commit message. When getting started with your project, read through [this article](https://chris.beams.io/posts/git-commit/) by Chris Beams on How to Write  a Git Commit Message 
-  - Make sure to keep the messages in the imperative mood 
-
-- When naming the files in your project directory, make sure to consider meaningful naming of files, point to specific names and sections of content.
-  - For example, instead of naming an image used ‘image1.png’ consider naming it ‘landing_page_img.png’. This will ensure that there are clear file paths kept. 
-
-- Do some extra research on good and bad coding practices, there are a handful of useful articles to read, consider reviewing the following list when getting started:
-  - [Writing Your Best Code](https://learn.shayhowe.com/html-css/writing-your-best-code/)
-  - [HTML & CSS Coding Best Practices](https://medium.com/@inceptiondj.info/html-css-coding-best-practice-fadb9870a00f)
-  - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html#General)
-
-Getting started with your Portfolio Projects can be daunting, planning your project can make it a lot easier to tackle, take small steps to reach the final outcome and enjoy the process! 

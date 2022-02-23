@@ -91,7 +91,7 @@ header {
 
 #headline {
     display: flex;
-    font-size: 400%;
+    font-size: 350%;
     color: #3C5148;
     height: 1000px;
     width: 40%;
@@ -313,6 +313,7 @@ footer {
     header {
         display: grid;
         justify-content: center;
+        z-index: 3;
     }
     
     #logo {
@@ -355,6 +356,32 @@ footer {
     
     #photos {
         column-count: 2;
+    }
+
+    #hero-image {
+        position: relative;
+        height: 1000px;
+        width: 100%;
+        overflow: hidden;
+        background-size: cover;
+        background-position: center;
+        z-index: 1;
+    }
+    
+    #headline {
+        position: absolute;
+        height: 25%;
+        font-size: 200%;
+        color: #D5DDDF;
+        width: 100%;
+        z-index: 2;
+    }
+    
+    #headline > h2 {
+        border-top: none;
+        border-bottom: none;
+        text-align: center;
+        margin-top: 50px;
     }
 }
 
