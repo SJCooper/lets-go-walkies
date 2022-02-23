@@ -86,7 +86,7 @@ header {
     background: url('../images/jamie-street-zPHX8NscQ9o-unsplash.jpg') no-repeat center center;
     background-size: cover;
     float: left;
-    background-position: 0% 75%;
+    background-position: center;
 }
 
 #headline {

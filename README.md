@@ -52,6 +52,7 @@ INSERT ABOUT US SCREENSHOT HERE
 
   - The gallery will provide the user with supporting images to see what the meet ups look like. 
   - This section is valuable to the user as they can see the types of walks the group has completed in the past. 
+  - The gallery is styled in a masonary style which makes transitioning to smaller screensizes using fewer columns much simpler and keeps the flow of the gallery as smooth as possible.
 
 ![Upcoming Events Page](assets/images/gallery.png)
 
