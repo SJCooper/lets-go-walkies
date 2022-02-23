@@ -3,7 +3,7 @@
 
 Let's Go Walkies is a site that introduces people and their pets to a dog hiking group based in the north west of england. The site offers open and free information regarding events and allows people to sign up for event newsletters and updates. Let's Go Walkies is aimed at dog owners that enjoy socialising their pets and those who might prefer group walks and hikes as oppose to solitary ones. The aim of the site is to aid the growth of the community and to give dog walkers potential new ideas as to suitable dog friendly areas to take their dogs.
 
-![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
+INSERT MOCKUP SCREENSHOT HERE
 
 ## Features 
 
@@ -11,55 +11,49 @@ Let's Go Walkies is a site that introduces people and their pets to a dog hiking
 
 - __Navigation Bar__
 
-  - Featured on all pages, the full responsive navigation bar includes links to the Logo, Home page, Upcoming Events, Gallery and Sign Up page and is identical in each page to allow for easy navigation. 
-  - The navigation link of the currently viewed site is displayed differently (complete outline) to allow the user to quicky see what part of the site they are viewing.
-  - When hovering over a navigation bar element, the elemnts colors will invert with a subtle animation to allow the user to easily see what they are selecting.
+  - Featured on all pages, the fully responsive navigation bar includes links to the Home page (from the site logo and home page navigation link), Upcoming events page, Gallery page and Sign Up page.
+  -  The navigation bar is identical on each page to allow for easy site and page navigation. 
+  - The navigation link of the currently viewed page is displayed differently (complete solid border) to allow the user to quicky see what part of the site they are viewing.
+  - When hovering over a navigation bar element, the elements colors will invert with a subtle animation to allow the user to easily see what they are selecting.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. The navigation bar is also sticky and always visable to allow for immediate navigation when required by the user.
 
 ![Nav Bar](assets/images/Navbar.png)
 
-- __The landing Page Image and Headline__
+- __The landing Page Hero Image and Headline__
 
-  - The landing page includes a hero image with headline text to one side to allow the user to see exactly who this site is aiming to connect with. 
+  - The landing page includes a hero image with headline text side by side to allow the user to see exactly who this site is aiming to connect with. 
   - This is the first thing someone visiting the site will see so is presented in a clear and concise way to convey the main site focus to the user.
 
 ![Landing Page Hero Image and Headline](assets/images/HeroImageAndHeadline.png)
 
+- __About us section and cards__
 
+  - The about us section will allow the user to see the benefits of joining in with the group, even if it is just for ideas of places to go on their own.
+  - The card will serve to highlight the main positives of joining the community and show the welcoming nature of the group.
+  - The user will see the benefit of signing up for the newsletter to get more in depth information about upcoming walks and group events.
 
-
-
-
-
-
-
-- __Club Ethos Section__
-
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
-
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
-
-- __Meetup Times section__
-
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
-
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+INSERT ABOUT US SCREENSHOT HERE
 
 - __The Footer__ 
 
   - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media
+  - The footer is valuable to the user as it encourages them to keep connected via social media.
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+![Upcoming Events Page](assets/images/footer-links.png)
+
+- __Upcoming Events page__
+
+  - This section will allow the user to see upcoming group meets, when they will happen, and where exactly they will be held using embedded google maps. 
+  - This section will be easy to maintain and will keep the required information in an easy to find and read area. 
+
+![Upcoming Events Page](assets/images/upcoming-events.png)
 
 - __Gallery__
 
   - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
+  - This section is valuable to the user as they can see the types of walks the group has completed in the past. 
 
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
+![Gallery Page](assets/images/gallery.png)
 
 - __The Sign Up Page__
 
