@@ -185,8 +185,6 @@ footer {
     width: 100%;
 }
 
-
-
 /* Upcoming events section */
 
 #upcoming {
@@ -308,3 +306,42 @@ footer {
     color: #D5DDDF;
     padding: 10px;
 } 
+
+/* Media queries */
+
+/* Larger to medium size screens <= 1200px */
+
+@media screen and (max-width: 1200px){
+
+    #photos {
+        column-count: 3;
+    }
+
+    #logo {
+        margin: auto;
+    }
+    
+    /* Menu nav links */
+    
+    #menu {
+        font-size: 150%;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 1px;
+        float: right;
+        margin-right: 30px;
+        list-style-type: none;
+    }
+    
+    #menu li {
+        display: inline-block;
+        margin-right: 10px;
+    }
+
+}
+
+/* Medium size screens <= 950px */
+
+@media screen and (max-width: 950px){
+
+}
