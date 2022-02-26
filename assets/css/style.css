@@ -228,6 +228,9 @@ footer {
     margin: 5px 0 20px 0;
     border: 1px solid #D5DDDF;
     border-radius: 2px;
+    padding: 5px;
+    font-size: 18px
+
 }
   
 .text-input:hover {
