@@ -41,6 +41,7 @@ header a {
     border: solid 3px #D5DDDF;
     margin-left: 30px;
     line-height: 75px;
+    padding: 0 10px;
 }
 
 /* Menu nav links */
