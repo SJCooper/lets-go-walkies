@@ -253,11 +253,16 @@ a.social-networks:hover i {
     text-transform: uppercase;
     letter-spacing: 1px;
     line-height: 63px;
-    padding: 10px;
+    padding: 20px;
 }
 
 .when {
-    padding: 10px;
+    padding: 20px;
+}
+
+.map {
+    width: 600px;
+    margin: 25px;
 }
 
 /* Sign up page / sign up form */
@@ -365,6 +370,11 @@ a.social-networks:hover i {
     #photos {
         column-count: 3;
     }
+
+    .map {
+        width: 400px;
+    }
+
 }
 
 /* Medium size screens <= 950px */
@@ -424,6 +434,11 @@ a.social-networks:hover i {
         display: flex;
         flex-direction: column;
     }
+
+    .map {
+        width: 300px;
+    }
+
 }
 
 /* small size screens <= 480px */
