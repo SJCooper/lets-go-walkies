@@ -65,6 +65,7 @@ header a {
     color: #D5DDDF;
     border-top: solid 3px #D5DDDF;
     border-bottom: solid 3px #D5DDDF;
+    padding: 0 4px;
 }
 
 .active {
