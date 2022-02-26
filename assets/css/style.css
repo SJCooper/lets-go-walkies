@@ -26,6 +26,11 @@ header {
     top: 0;
 }
 
+header a {
+    text-decoration: none;
+}
+
+
 #logo {
     font-size: 280%;
     font-weight: 900;
@@ -145,6 +150,10 @@ footer {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+footer a {
+    text-decoration: none;
 }
 
 .links {
