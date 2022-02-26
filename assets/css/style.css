@@ -438,6 +438,10 @@ a.social-networks:hover i {
         background-color:rgba(213, 221, 223, 0.6);
         outline: 2px solid black;
     }
+
+    .row, .column{
+        display: block;
+    }
 }
 
 /* small size screens <= 480px */
