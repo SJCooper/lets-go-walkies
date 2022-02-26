@@ -24,6 +24,7 @@ header {
     background-color: #3C5148;
     position: sticky;
     top: 0;
+    border-bottom: 3px solid #D5DDDF;
 }
 
 header a {
