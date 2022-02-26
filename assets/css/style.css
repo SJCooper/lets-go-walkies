@@ -268,7 +268,7 @@ a.social-networks:hover i {
 /* Sign up page / sign up form */
 
 #signup-image {
-    height: 700px;
+    height: 95vh;
     width: 100%;
     background: url('../images/jamie-street-zPHX8NscQ9o-unsplash.jpg') no-repeat center center;
     background-size: cover;
@@ -283,8 +283,6 @@ a.social-networks:hover i {
     left: 15%;
 	width: 70%;
 	padding: 20px 8px;
-	
-
 }
 
 .text-input {
