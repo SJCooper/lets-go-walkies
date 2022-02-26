@@ -62,6 +62,10 @@ header a {
     margin-right: 10px;
 }
 
+.short-text { 
+    display: none; 
+}
+
 #menu a {
     text-decoration: none;
     color: #D5DDDF;
@@ -295,7 +299,6 @@ a.social-networks:hover i {
     border-radius: 2px;
     padding: 5px;
     font-size: 18px
-
 }
   
 .text-input:hover {
@@ -338,7 +341,8 @@ a.social-networks:hover i {
     }
     
     #logo {
-        font-size: 200%;
+        font-size: 36px;
+        line-height: 42px;
         align-items: center;
         justify-content: center;
         margin-left: auto;
@@ -384,7 +388,7 @@ a.social-networks:hover i {
     }
 
     #menu li {
-        font-size: 70%;
+        font-size: 18px;
         margin: 5px; 
     }
     
@@ -437,6 +441,12 @@ a.social-networks:hover i {
         width: 300px;
     }
 
+    #signup-form {
+        font-size: 18px;
+        margin-top: 20px;
+        padding: 10px 5px;
+    }
+
 }
 
 /* small size screens <= 480px */
@@ -451,6 +461,14 @@ a.social-networks:hover i {
         text-align: center;
     }
 
+    .short-text { 
+        display: inline-block; 
+    }
+
+    .full-text {
+        display: none;
+    }
+    
     #menu li a {
         font-size: 70%;
         margin: 2px;
