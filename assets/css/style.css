@@ -338,7 +338,7 @@ a.social-networks:hover i {
 
 /* Media queries */
 
-/* Larger to medium size screens <= 1200px */
+/* Large devices (desktops, less than 1200px) */
 
 @media screen and (max-width: 1200px) {
 
@@ -387,7 +387,7 @@ a.social-networks:hover i {
 
 }
 
-/* Medium size screens <= 950px */
+/* Medium devices (tablets, less than 950px) */
 
 @media screen and (max-width: 950px) {
     
@@ -466,7 +466,7 @@ a.social-networks:hover i {
 
 }
 
-/* small size screens <= 480px */
+/* Small devices (phones, less than 480px) */
 
 @media screen and (max-width: 480px) {
     
