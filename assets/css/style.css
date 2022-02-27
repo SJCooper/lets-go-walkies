@@ -487,4 +487,9 @@ a.social-networks:hover i {
     .map {
         padding: 1px;
     }
+
+    .submit-button {
+        font-size: 20px;
+        letter-spacing: 1px;
+    }
 }
