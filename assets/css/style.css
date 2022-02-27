@@ -446,6 +446,7 @@ a.social-networks:hover i {
 
     .map {
         width: 300px;
+        margin: auto;
     }
 
     #signup-form {
@@ -461,7 +462,16 @@ a.social-networks:hover i {
 @media screen and (max-width: 480px) {
     
     #logo {
-        margin: 2px;
+        margin: 0px;
+    }
+
+    #menu {
+        margin-left: 15px;
+    }
+
+    #menu li {
+        font-size: 16px;
+        padding: 0px;
     }
 
     #photos {
@@ -472,5 +482,9 @@ a.social-networks:hover i {
         margin: 15px;
         font-size: 280%; 
         color: #D5DDDF;
+    }
+
+    .map {
+        padding: 1px;
     }
 }
