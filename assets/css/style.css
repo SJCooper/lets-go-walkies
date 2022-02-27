@@ -216,7 +216,6 @@ a.social-networks:hover i {
     transform: rotate(-15deg) scale(1.3);
 }
 
-
 /* Gallery */
 
 #photos {
@@ -396,7 +395,10 @@ a.social-networks:hover i {
         display: none;
     }
 
-    
+    #menu li {
+        padding-left: 4px;
+    }
+
     #hero-image {
         position: relative;
         height: 1000px;
@@ -459,11 +461,7 @@ a.social-networks:hover i {
 @media screen and (max-width: 480px) {
     
     #logo {
-        font-size: 18px%;
-        align-items: center;
-        justify-content: center;
-        margin: 5px;
-        text-align: center;
+        margin: 2px;
     }
 
     #photos {
