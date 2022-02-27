@@ -383,14 +383,19 @@ a.social-networks:hover i {
 
 @media screen and (max-width: 950px) {
     
+    
     #photos {
         column-count: 2;
     }
 
-    #menu li {
-        font-size: 18px;
-        margin: 5px; 
+    .short-text { 
+        display: inline-block; 
     }
+
+    .full-text {
+        display: none;
+    }
+
     
     #hero-image {
         position: relative;
@@ -454,26 +459,10 @@ a.social-networks:hover i {
 @media screen and (max-width: 480px) {
     
     #logo {
-        font-size: 175%;
+        font-size: 18px%;
         align-items: center;
         justify-content: center;
         margin: 5px;
-        text-align: center;
-    }
-
-    .short-text { 
-        display: inline-block; 
-    }
-
-    .full-text {
-        display: none;
-    }
-    
-    #menu li a {
-        font-size: 70%;
-        margin: 2px;
-        width: 100%; 
-        display: inline-block;
         text-align: center;
     }
 
@@ -486,5 +475,4 @@ a.social-networks:hover i {
         font-size: 280%; 
         color: #D5DDDF;
     }
-
 }
