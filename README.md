@@ -17,14 +17,14 @@ INSERT MOCKUP SCREENSHOT HERE
   - When hovering over a navigation bar element, the elements colors will invert with a subtle animation to allow the user to easily see what they are selecting.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. The navigation bar is also sticky and always visable to allow for immediate navigation when required by the user.
 
-![Nav Bar](assets/images/Navbar.png)
+INSERT NAVBAR SCREENSHOT HERE
 
 - __The landing Page Hero Image and Headline__
 
   - The landing page includes a hero image with headline text side by side to allow the user to see exactly who this site is aiming to connect with. 
   - This is the first thing someone visiting the site will see so is presented in a clear and concise way to convey the main site focus to the user.
 
-![Landing Page Hero Image and Headline](assets/images/HeroImageAndHeadline.png)
+INSERT HERO IMAGE AND HEADLINE SCREENSHOT HERE
 
 - __About us section and cards__
 
@@ -39,14 +39,14 @@ INSERT ABOUT US SCREENSHOT HERE
   - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
   - The footer is valuable to the user as it encourages them to keep connected via social media.
 
-![Footer and Social Links](assets/images/footer-links.png)
+INSERT FOOTER SCREENSHOT HERE
 
 - __Upcoming Events page__
 
   - This section will allow the user to see upcoming group meets, when they will happen, and where exactly they will be held using embedded google maps. 
   - This section will be easy to maintain and will keep the required information in an easy to find and read area. 
 
-![Upcoming Events Page](assets/images/upcoming-events.png)
+INSERT UPCOMING EVENTS SCREENSHOT HERE
 
 - __Gallery__
 
@@ -54,7 +54,7 @@ INSERT ABOUT US SCREENSHOT HERE
   - This section is valuable to the user as they can see the types of walks the group has completed in the past. 
   - The gallery is styled in a masonary style which makes transitioning to smaller screensizes using fewer columns much simpler and keeps the flow of the gallery as smooth as possible.
 
-![Gallery Page](assets/images/gallery.png)
+INSERT GALLERY SCREENSHOT HERE
 
 - __The Sign Up Page__
 
@@ -62,7 +62,7 @@ INSERT ABOUT US SCREENSHOT HERE
   - The user will be able to specify how many dogs and of what breeds they are. This can help facilitate introductions between the group and may help the user to find commanalities with current members.
   - The user will be asked to submit their full name and email address. 
 
-![Sign Up Page](assets/images/sign-up.png)
+INSERT SIGNUP SCREENSHOT HERE
 
 ### Features Left to Implement
 
@@ -84,7 +84,7 @@ If this section grows too long, you may want to split it off into a separate fil
 
 ### Validator Testing 
 
-MAKE SURE TO DO THE VALIDATOR CHECKS AGAIN ONCE ALL SITE FEATURES ARE IMPLIMENTED!!!!!!
+MAKE SURE TO DO THE VALIDATOR CHECKS AGAIN ONCE ALL SITE FEATURES ARE IMPLIMENTED!!!!!! ADD SCREENSHOTS OF ALL VALIDATOR SCORES FOR ALL PAGES
 
 - HTML
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
