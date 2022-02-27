@@ -3,7 +3,7 @@
 
 Let's Go Walkies is a site that introduces people and their pets to a dog hiking group based in the north west of england. The site offers open and free information regarding events and allows people to sign up for event newsletters and updates. Let's Go Walkies is aimed at dog owners that enjoy socialising their pets and those who might prefer group walks and hikes as oppose to solitary ones. The aim of the site is to aid the growth of the community and to give dog walkers potential new ideas as to suitable dog friendly areas to take their dogs.
 
-INSERT MOCKUP SCREENSHOT HERE
+![mockup-min](https://user-images.githubusercontent.com/7358665/155905572-0a3c547a-618e-4009-abc6-75dcdbc877aa.png)
 
 ## Features 
 
