@@ -391,9 +391,8 @@ a.social-networks:hover i {
 
 @media screen and (max-width: 950px) {
     
-    
-    #photos {
-        column-count: 2;
+    #menu li {
+        padding-left: 4px;
     }
 
     .short-text { 
@@ -402,10 +401,6 @@ a.social-networks:hover i {
 
     .full-text {
         display: none;
-    }
-
-    #menu li {
-        padding-left: 4px;
     }
 
     #hero-image {
@@ -435,14 +430,10 @@ a.social-networks:hover i {
         background-color:rgba(213, 221, 223, 0.6);
         outline: 2px solid black;
     }
-
-    /* Landing page info card responsivness */
     
     .row, .column {
         display: block;
     }
-
-    /* upcoming events responsivness */
 
     #upcoming section {
         text-align: center;
@@ -458,6 +449,10 @@ a.social-networks:hover i {
         margin: auto;
     }
 
+    #photos {
+        column-count: 2;
+    }
+    
     #signup-form {
         font-size: 18px;
         margin-top: 20px;
@@ -483,10 +478,6 @@ a.social-networks:hover i {
         padding: 0px;
     }
 
-    #photos {
-        column-count: 1;
-    }
-
     .social-networks i {
         margin: 15px;
         font-size: 280%; 
@@ -495,6 +486,10 @@ a.social-networks:hover i {
 
     .map {
         padding: 1px;
+    }
+    
+    #photos {
+        column-count: 1;
     }
 
     .submit-button {
