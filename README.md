@@ -98,7 +98,7 @@ Let's Go Walkies is a site that introduces people and their pets to a dog hiking
 
 ### Features Left to Implement
 
-While there are no features left unimplimented from the original scope of the site, there is one feature outlined below that I explored that could possibly be implimented as further addition to the site at a later time. This would require Javascript and as such is beyond the scope of this project as the projects focus was a HTML and CSS front end site.
+While there are no features left unimplimented from the original scope of the site, there are features outlined below that I explored that could possibly be implimented as further addition to the site at a later time. This would require Javascript and as such is beyond the scope of this project as the projects focus was a HTML and CSS front end site.
 
 - __Photo Submission__
 
@@ -112,13 +112,17 @@ While there are no features left unimplimented from the original scope of the si
 
 ## Testing 
 
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+To begin testing the site I checked all user accesible links, forms and buttons worked in as expected in Chrome, Firefox and Safari. This included checking every link from every page at every responsive breakpoint size. As far as was observable there were no errors in any browser in terms of links and user interaction elements.
 
-To begin testing the site I checked all user accesible links, forms and buttons worked in as expected in Chrome, Firefox and Safari. As far as was observable there were no errors in any browser in terms of links and user interaction elements.
+I then went on to test the site on physical devices available to me which are an iPhone X and iPad Pro (12.9 inch M1 model). This afforded me the opportunity to test landscape and portrait modes on both devices to check responsivness was behaving as expected and it was in every case.
+
+Whilst testing on these apple devices I became aware of a bug in which the sign up form submit button was not styling as expected and instead was using some apparantly default iOS button stylings. I found a potential fix on Stack Overflow which seemed to resolve the problem with minimal additional CSS styling.
+
+![iPad-bug-min](https://user-images.githubusercontent.com/7358665/155914253-634cec2d-c319-4ef3-b27a-e3cec990027d.PNG)
+![iPhone-bug-min](https://user-images.githubusercontent.com/7358665/155914293-4157ed3c-0c1f-491f-a87d-a14db0269c14.PNG)
+<img width="308" alt="stack-overflow-solution" src="https://user-images.githubusercontent.com/7358665/155914461-7f1c1e91-ef8b-4186-9962-d0a4b5619940.png">
 
 In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
 
 If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
