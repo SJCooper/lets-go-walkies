@@ -85,8 +85,8 @@ Let's Go Walkies is a site that introduces people and their pets to a dog hiking
   - This page will allow the user to sign up to Let's Go Walkies newsletters mailing list. 
   - The user will be able to specify how many dogs and of what breeds they are. This can help facilitate introductions between the group and may help the user to find commanalities with current members.
   - The user will be asked to submit their full name and email address. 
-  - The sign up form has validation on each section apart from breed
-
+  - The sign up form has validation on each section apart from breed.
+  
 <img width="1301" alt="signup-min" src="https://user-images.githubusercontent.com/7358665/155907500-9b471536-8e6a-4cec-951d-ea6cfe6cac44.png">
 
 ### Features Left to Implement
@@ -99,11 +99,15 @@ Let's Go Walkies is a site that introduces people and their pets to a dog hiking
   - This will add to the level of inclusion for community members.
   - This will add to the exposure for the group as photos could be shown and shared with people outside of the group by current group members.
 
+- __Form Submission User Feedback__
+- 
+- As this project was a HTML and CSS front end focussed project, the user inputted information on the signup form opens on a seperate validation page. In future javascript may be inplimented to send an alert to the user to notify wether the form and information contained in it has been recieved correctly or not.
+
 ## Testing 
 
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
-To begin testing the site I checked all user accesible links, forms and buttons worked in as expected in Chrome, Firefox and Safari.
+To begin testing the site I checked all user accesible links, forms and buttons worked in as expected in Chrome, Firefox and Safari. As far as was observable there were no errors in any browser in terms of links and user interaction elements.
 
 In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
 
