@@ -122,34 +122,41 @@ Whilst testing on these apple devices I became aware of a bug in which the sign 
 ![iPhone-bug-min](https://user-images.githubusercontent.com/7358665/155914293-4157ed3c-0c1f-491f-a87d-a14db0269c14.PNG)
 <img width="308" alt="stack-overflow-solution" src="https://user-images.githubusercontent.com/7358665/155914461-7f1c1e91-ef8b-4186-9962-d0a4b5619940.png">
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+All responsive elements in each of these test cases worked and updated as expected.
 
 ### Validator Testing 
 
-MAKE SURE TO DO THE VALIDATOR CHECKS AGAIN ONCE ALL SITE FEATURES ARE IMPLIMENTED!!!!!! ADD SCREENSHOTS OF ALL VALIDATOR SCORES FOR ALL PAGES
-
 - HTML
   - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
+  - There was one warning for each of the events, gallery and signup pages stating they did not have headers. This was deemed to be a design choice and that the headers were not needed for those particular pages and did not effect the site in any negative way.
+  
+<img width="582" alt="index-html" src="https://user-images.githubusercontent.com/7358665/155915547-002a4614-1783-46c5-8093-114756188ffa.png">
+<img width="904" alt="upcoming-html" src="https://user-images.githubusercontent.com/7358665/155915589-d1602b07-1899-4a1e-b365-61c1121cdc86.png">
+<img width="904" alt="gallery-html" src="https://user-images.githubusercontent.com/7358665/155915658-cd644124-c38c-41c9-9aea-0d85aa61aa8e.png">
+<img width="904" alt="signup-html" src="https://user-images.githubusercontent.com/7358665/155915702-6d867180-0fdc-4c7d-bfc8-fcd37919de62.png">
+<img width="546" alt="404-html" src="https://user-images.githubusercontent.com/7358665/155915750-703c3def-8e9c-4339-8c89-b72ec8394a90.png">
+
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
+  - There was one error flagged as below which was directly related to the submit button iOS fix and was required for the site to style correctly. This did not impact any usability of the site.
+
+- Lighthouse
+  - I ran a lighthouse test case in Google Chrome and the results were acceptable with performance being the lowest but having drastically improved after compressing the site images and lowering their filesizes all to less than 1mb.
+
+<img width="469" alt="lighthouse" src="https://user-images.githubusercontent.com/7358665/155916851-0c0909ba-ab75-4c9c-9486-e9693f65097f.png">
 
 ### Unfixed Bugs
 
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. 
+There are no outstanding bugs to be fixed that I am currently aware of.
 
 ## Deployment
-
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
   - In the GitHub repository, navigate to the Settings tab 
   - From the source section drop-down menu, select the Master Branch
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
-The live link can be found here - https://code-institute-org.github.io/love-running-2.0/index.html 
-
+The live link can be found here - https://sjcooper.github.io/lets-go-walkies/index.html 
 
 ## Credits 
 
