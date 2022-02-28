@@ -175,6 +175,7 @@ ADD PHOTO CREDITS, GOOGLE MAPS, CODE INSTITUTE LOVE RUNNING README TEMPLATE, FON
 - All maps were direct links from [Google maps](https://https://www.google.co.uk/maps/)
 - This README was created using a template provided for the Love Running project from [Code Institute](https://codeinstitute.net/)
 - The fonts used by the site are from [Google Fonts](https://fonts.google.com/)
+- Favicon icons and files were taken from [Favicon.io](https://favicon.io/)
 
 ### Code
 
