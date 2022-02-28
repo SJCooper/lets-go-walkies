@@ -1,9 +1,12 @@
 # Let's Go Walkies
 
-
 Let's Go Walkies is a site that introduces people and their pets to a dog hiking group based in the north west of england. The site offers open and free information regarding events and allows people to sign up for event newsletters and updates. Let's Go Walkies is aimed at dog owners that enjoy socialising their pets and those who might prefer group walks and hikes as oppose to solitary ones. The aim of the site is to aid the growth of the community and to give dog walkers potential new ideas as to suitable dog friendly areas to take their dogs.
 
 ![mockup-min](https://user-images.githubusercontent.com/7358665/155905892-1be8d31c-365a-47e7-a995-319c3644f742.png)
+
+## Design And Planning
+
+### Wireframes
 
 ## Features 
 
@@ -48,7 +51,6 @@ Let's Go Walkies is a site that introduces people and their pets to a dog hiking
 
   - This page will allow the user to see upcoming group meets, when they will happen, and where exactly they will be held using embedded google maps. 
   - This pages content will be easy to maintain and update and will keep the required information in an easy to find and read area. 
-  - 
 
 <img width="1115" alt="upcoming" src="https://user-images.githubusercontent.com/7358665/155906505-9f37d7b0-8521-4e4d-869e-3cd884366fb7.png">
 
@@ -63,11 +65,12 @@ Let's Go Walkies is a site that introduces people and their pets to a dog hiking
 
 - __The Sign Up Page__
 
-  - This page will allow the user to get signed up to Let's Go Walkies newsletters mailing . 
+  - This page will allow the user to sign up to Let's Go Walkies newsletters mailing list. 
   - The user will be able to specify how many dogs and of what breeds they are. This can help facilitate introductions between the group and may help the user to find commanalities with current members.
   - The user will be asked to submit their full name and email address. 
+  - The sign up form has validation on each section apart from breed
 
-INSERT SIGNUP SCREENSHOT HERE
+<img width="1301" alt="signup-min" src="https://user-images.githubusercontent.com/7358665/155907500-9b471536-8e6a-4cec-951d-ea6cfe6cac44.png">
 
 ### Features Left to Implement
 
@@ -82,6 +85,8 @@ INSERT SIGNUP SCREENSHOT HERE
 ## Testing 
 
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+
+To begin testing the site I checked all user accesible links, forms and buttons worked in as expected in Chrome, Firefox and Safari.
 
 In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
 
