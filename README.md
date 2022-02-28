@@ -161,21 +161,26 @@ There are no outstanding bugs to be fixed that I am currently aware of.
 
 The live link can be found here - https://sjcooper.github.io/lets-go-walkies/index.html 
 
+<img width="1237" alt="deploy" src="https://user-images.githubusercontent.com/7358665/155917884-0bc8b480-f935-4051-afee-9b147a7cc192.png">
+
 ## Credits 
 
 In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
-
-You can break the credits section up into Content and Media, depending on what you have included in your project. 
 
 ADD PHOTO CREDITS, GOOGLE MAPS, CODE INSTITUTE LOVE RUNNING README TEMPLATE, FONT AWESOME, GOOGLE FONTS...
 
 ### Content 
 
-- The text for the Home page was taken from Wikipedia Article A
-- Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
+- All maps were direct links from [Google maps](https://https://www.google.co.uk/maps/)
+- This README was created using a template provided for the Love Running project from [Code Institute](https://codeinstitute.net/)
+- The fonts used by the site are from [Google Fonts](https://fonts.google.com/)
+
+### Code
+
+- CSS Flex Grid design and implimentation was taken from [Codepen](https://codepen.io/), specifically Tania Rascias [Easist Flex Grid Ever](https://codepen.io/taniarascia/pen/rOLEGe/) which was shown to me by my mentor Malia Havlicek.
+- Code feedback was given by Malia Havlicek as part of my Mentor sessions.
 
 ### Media
 
-- The photos used on the home and sign up page are from This Open Source site
-- The images used for the gallery page were taken from this other open source site
+- The photos for the hero image and gallery page were all from [Unsplash](https://unsplash.com/). Any other photos are personal photos owned by myself.
