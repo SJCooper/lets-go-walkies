@@ -89,6 +89,13 @@ Let's Go Walkies is a site that introduces people and their pets to a dog hiking
   
 <img width="1301" alt="signup-min" src="https://user-images.githubusercontent.com/7358665/155907500-9b471536-8e6a-4cec-951d-ea6cfe6cac44.png">
 
+- __The 404 Page__
+
+  - This page will allow the user to find their way back to the main site pages in the event they reach a 404 page link by mistake. 
+  - The 404 page clearly states to the user that the nav links are to be used to relocate back to normal site navigation.
+  
+<img width="2560" alt="404" src="https://user-images.githubusercontent.com/7358665/155911330-ca15f829-9543-4cfb-9c19-ba0c9e962538.png">
+
 ### Features Left to Implement
 
 - While there are no features left unimplimented from the original scope of the site, there is one feature outlined below that I explored that could possibly be implimented as further addition to the site at a later time. This would require Javascript and as such is beyond the scope of this project as the projects focus was a HTML and CSS front end site.
