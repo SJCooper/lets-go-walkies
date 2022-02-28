@@ -98,7 +98,7 @@ Let's Go Walkies is a site that introduces people and their pets to a dog hiking
 
 ### Features Left to Implement
 
-- While there are no features left unimplimented from the original scope of the site, there is one feature outlined below that I explored that could possibly be implimented as further addition to the site at a later time. This would require Javascript and as such is beyond the scope of this project as the projects focus was a HTML and CSS front end site.
+While there are no features left unimplimented from the original scope of the site, there is one feature outlined below that I explored that could possibly be implimented as further addition to the site at a later time. This would require Javascript and as such is beyond the scope of this project as the projects focus was a HTML and CSS front end site.
 
 - __Photo Submission__
 
