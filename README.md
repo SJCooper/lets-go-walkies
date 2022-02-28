@@ -138,7 +138,7 @@ All responsive elements in each of these test cases worked and updated as expect
 
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/)
-  - There was one error flagged as below which was directly related to the submit button iOS fix and was required for the site to style correctly. This did not impact any usability of the site.
+  - There was one warning flagged as below which was directly related to the submit button iOS fix and was required for the site to style correctly. This did not impact any usability of the site.
 
 <img width="996" alt="css-validation" src="https://user-images.githubusercontent.com/7358665/155917193-03849545-2dcf-4f75-a285-8512b0bff47b.png">
 <img width="469" alt="css-warning" src="https://user-images.githubusercontent.com/7358665/155917203-bf137c8e-1131-407a-bc61-d8cdc921d972.png">
