@@ -100,8 +100,8 @@ Let's Go Walkies is a site that introduces people and their pets to a dog hiking
   - This will add to the exposure for the group as photos could be shown and shared with people outside of the group by current group members.
 
 - __Form Submission User Feedback__
-- 
-- As this project was a HTML and CSS front end focussed project, the user inputted information on the signup form opens on a seperate validation page. In future javascript may be inplimented to send an alert to the user to notify wether the form and information contained in it has been recieved correctly or not.
+
+  - As this project was a HTML and CSS front end focussed project, the user inputted information on the signup form opens on a seperate validation page. In future javascript may be inplimented to send an alert to the user to notify wether the form and information contained in it has been recieved correctly or not.
 
 ## Testing 
 
