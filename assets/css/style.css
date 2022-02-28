@@ -377,14 +377,13 @@ a.social-networks:hover i {
         float: right;
     }
 
-    #photos {
-        column-count: 3;
-    }
-
     .map {
         width: 400px;
     }
-
+    
+    #photos {
+        column-count: 3;
+    }
 }
 
 /* Medium devices (tablets, less than 950px) */
