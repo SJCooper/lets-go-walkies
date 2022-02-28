@@ -3,7 +3,7 @@
 
 Let's Go Walkies is a site that introduces people and their pets to a dog hiking group based in the north west of england. The site offers open and free information regarding events and allows people to sign up for event newsletters and updates. Let's Go Walkies is aimed at dog owners that enjoy socialising their pets and those who might prefer group walks and hikes as oppose to solitary ones. The aim of the site is to aid the growth of the community and to give dog walkers potential new ideas as to suitable dog friendly areas to take their dogs.
 
-![mockup-min](https://user-images.githubusercontent.com/7358665/155905572-0a3c547a-618e-4009-abc6-75dcdbc877aa.png)
+![mockup-min](https://user-images.githubusercontent.com/7358665/155905892-1be8d31c-365a-47e7-a995-319c3644f742.png)
 
 ## Features 
 
@@ -15,9 +15,11 @@ Let's Go Walkies is a site that introduces people and their pets to a dog hiking
   - The navigation bar is identical on each page to allow for easy site and page navigation. 
   - The navigation link of the currently viewed page is displayed differently (complete solid border) to allow the user to quicky see what part of the site they are viewing.
   - When hovering over a navigation bar element, the elements colors will invert with a subtle animation to allow the user to easily see what they are selecting.
+  - On smaller screen sizes the navigation elements use shorter key words to aid in the reponsive design of the navigation menu.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. The navigation bar is also sticky and always visable to allow for immediate navigation when required by the user.
 
-INSERT NAVBAR SCREENSHOT HERE
+<img width="1435" alt="fullsize-navbar" src="https://user-images.githubusercontent.com/7358665/155905845-b51086a2-3e20-40a5-82cc-136f8220aa10.png">
+<img width="452" alt="small-navbar" src="https://user-images.githubusercontent.com/7358665/155905870-570d92bc-2731-4738-ad91-106309b9b3c7.png">
 
 - __The landing Page Hero Image and Headline__
 
