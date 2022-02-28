@@ -8,6 +8,22 @@ Let's Go Walkies is a site that introduces people and their pets to a dog hiking
 
 ### Wireframes
 
+- __Original Design__
+
+  - The original wireframe for the site was created using Balsamiq. 
+  - Whilst the finished site evolved drastically from the original sketched out wireframes, they provided a starting part for the sites creation.
+  - The wireframe aided in the creation of the basic html structure which other elements were added to throughout the design process.
+
+<img width="1532" alt="balsamiq-wireframe-min" src="https://user-images.githubusercontent.com/7358665/155908181-466044e3-89b6-46db-ba9b-7fe32cf2f71e.png">
+
+- __Color Swatch__
+
+  - The chosen colors for the site were chosen to emphasize the nature based theme of the group. 
+  - The colors were checked initially to make sure their contrast would be adequate in terms of readability using https://webaim.org/resources/contrastchecker/
+
+![color-palette](https://user-images.githubusercontent.com/7358665/155908581-1d598bc1-b671-49ed-86ea-adc1e133c744.png)
+<img width="730" alt="contrast-checker" src="https://user-images.githubusercontent.com/7358665/155908887-59c6d02c-341b-46b8-8403-0b35643c16c1.png">
+
 ## Features 
 
 ### Existing Features
