@@ -223,8 +223,22 @@ a.social-networks:hover i {
     transform: rotate(-15deg) scale(1.3);
 }
 
+/* 404 page */
+
+
+
 #oops {
+    font-size: 350%;
+    color: #3C5148;
+    height: 500px;
     width: 100%;
+}
+
+#oops > h2 {
+    border-top: dotted 5px #3C5148;
+    border-bottom: dotted 5px #3C5148;
+    text-align: center;
+    margin: auto;
 }
 
 /* Gallery */
