@@ -127,7 +127,7 @@ All responsive elements in each of these test cases worked and updated as expect
 ### Validator Testing 
 
 - HTML
-  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fcode-institute-org.github.io%2Flove-running-2.0%2Findex.html)
+  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/)
   - There was one warning for each of the events, gallery and signup pages stating they did not have headers. This was deemed to be a design choice and that the headers were not needed for those particular pages and did not effect the site in any negative way.
   
 <img width="582" alt="index-html" src="https://user-images.githubusercontent.com/7358665/155915547-002a4614-1783-46c5-8093-114756188ffa.png">
@@ -137,7 +137,7 @@ All responsive elements in each of these test cases worked and updated as expect
 <img width="546" alt="404-html" src="https://user-images.githubusercontent.com/7358665/155915750-703c3def-8e9c-4339-8c89-b72ec8394a90.png">
 
 - CSS
-  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fvalidator.w3.org%2Fnu%2F%3Fdoc%3Dhttps%253A%252F%252Fcode-institute-org.github.io%252Flove-running-2.0%252Findex.html&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en#css)
+  - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/)
   - There was one error flagged as below which was directly related to the submit button iOS fix and was required for the site to style correctly. This did not impact any usability of the site.
 
 <img width="996" alt="css-validation" src="https://user-images.githubusercontent.com/7358665/155917193-03849545-2dcf-4f75-a285-8512b0bff47b.png">
