@@ -150,7 +150,9 @@ All responsive elements in each of these test cases worked and updated as expect
 
 ### Unfixed Bugs
 
-There are no outstanding bugs to be fixed that I am currently aware of.
+There is a known issue in GitPod. I am currently unable to remove the now unused sign-up.png image from the repo without my system crashing. I have tried several solutions to this including full system reboots and closing down of every other program running but to no success. This is not impacting the sites deployment at all but should be noted as the file is no longer used anywhere in the site or README. It should be noted that this is seemingly not a bug but rather a system issue.
+
+<img width="304" alt="image-bug" src="https://user-images.githubusercontent.com/7358665/155923496-0c9f9239-1133-48f9-b271-ed935ec2f726.png">
 
 ## Deployment
 
