@@ -165,22 +165,21 @@ The live link can be found here - https://sjcooper.github.io/lets-go-walkies/ind
 
 ## Credits 
 
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
-
-ADD PHOTO CREDITS, GOOGLE MAPS, CODE INSTITUTE LOVE RUNNING README TEMPLATE, FONT AWESOME, GOOGLE FONTS...
-
 ### Content 
 
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
-- All maps were direct links from [Google maps](https://https://www.google.co.uk/maps/)
+- All maps were direct links from [Google maps](https://www.google.com/maps/@53.7750116,-2.7105935,15z)
 - This README was created using a template provided for the Love Running project from [Code Institute](https://codeinstitute.net/)
 - The fonts used by the site are from [Google Fonts](https://fonts.google.com/)
 - Favicon icons and files were taken from [Favicon.io](https://favicon.io/)
+- Color swatch image was taken from [coolors.co](https://coolors.co/)
+- Photo compression was done using [compresspng](https://compresspng.com/)
 
 ### Code
 
 - CSS Flex Grid design and implimentation was taken from [Codepen](https://codepen.io/), specifically Tania Rascias [Easist Flex Grid Ever](https://codepen.io/taniarascia/pen/rOLEGe/) which was shown to me by my mentor Malia Havlicek.
-- Code feedback was given by Malia Havlicek as part of my Mentor sessions.
+- Code feedback was given by Malia Havlicek as part of my Mentor sessions. 
+- Other code was implimented from Code Institutes lessons including the Love Running Project indirectly from what I had learned from them.
 
 ### Media
 
