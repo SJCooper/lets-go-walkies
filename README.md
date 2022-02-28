@@ -44,20 +44,22 @@ Let's Go Walkies is a site that introduces people and their pets to a dog hiking
 
 <img width="580" alt="footer" src="https://user-images.githubusercontent.com/7358665/155906343-a88a1bf0-40cd-423d-98f9-2319fde8acc9.png">
 
-- __Upcoming Events page__
+- __Upcoming Events__
 
-  - This section will allow the user to see upcoming group meets, when they will happen, and where exactly they will be held using embedded google maps. 
-  - This section will be easy to maintain and will keep the required information in an easy to find and read area. 
+  - This page will allow the user to see upcoming group meets, when they will happen, and where exactly they will be held using embedded google maps. 
+  - This pages content will be easy to maintain and update and will keep the required information in an easy to find and read area. 
+  - 
 
-INSERT UPCOMING EVENTS SCREENSHOT HERE
+<img width="1115" alt="upcoming" src="https://user-images.githubusercontent.com/7358665/155906505-9f37d7b0-8521-4e4d-869e-3cd884366fb7.png">
 
 - __Gallery__
 
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
+  - The gallery page will provide the user with supporting images to see what the meet ups look like as events. 
   - This section is valuable to the user as they can see the types of walks the group has completed in the past. 
   - The gallery is styled in a masonary style which makes transitioning to smaller screensizes using fewer columns much simpler and keeps the flow of the gallery as smooth as possible.
+  - the gallery style allows for easy addition of content that will automatically size to fit the scheme.
 
-INSERT GALLERY SCREENSHOT HERE
+<img width="1301" alt="gallery-min" src="https://user-images.githubusercontent.com/7358665/155906666-bfa22709-17f7-4941-b34a-7854596123b5.png">
 
 - __The Sign Up Page__
 
@@ -68,6 +70,8 @@ INSERT GALLERY SCREENSHOT HERE
 INSERT SIGNUP SCREENSHOT HERE
 
 ### Features Left to Implement
+
+- While there are no features left unimplimented from the original scope of the site, there is one feature outlined below that I explored that could possibly be implimented as further addition to the site at a later time. This would require Javascript and as such is beyond the scope of this project as the projects focus was a HTML and CSS front end site.
 
 - __Photo Submission__
 
