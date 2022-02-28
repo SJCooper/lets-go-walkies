@@ -57,8 +57,9 @@ Let's Go Walkies is a site that introduces people and their pets to a dog hiking
 
 - __The Footer__ 
 
-  - The footer section includes links to the relevant social media sites for Love Running. 
+  - The footer section includes links to the relevant social media sites for Let's Go Walkies. 
   - The links will open to a new tab to allow easy navigation for the user. 
+  - The footer icons rotate and scale up when hovered over to aid in selection by giving visual cues for the user.
   - The footer is valuable to the user as it encourages them to keep connected to the group via social media.
 
 <img width="580" alt="footer" src="https://user-images.githubusercontent.com/7358665/155906343-a88a1bf0-40cd-423d-98f9-2319fde8acc9.png">
