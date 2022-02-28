@@ -26,22 +26,23 @@ Let's Go Walkies is a site that introduces people and their pets to a dog hiking
   - The landing page includes a hero image with headline text side by side to allow the user to see exactly who this site is aiming to connect with. 
   - This is the first thing someone visiting the site will see so is presented in a clear and concise way to convey the main site focus to the user.
 
-INSERT HERO IMAGE AND HEADLINE SCREENSHOT HERE
+<img width="1580" alt="hero-headline" src="https://user-images.githubusercontent.com/7358665/155906196-25dee8fc-23c5-4179-b3e7-5fa5b8ffdb83.png">
 
-- __About us section and cards__
+- __About Us Cards__
 
-  - The about us section will allow the user to see the benefits of joining in with the group, even if it is just for ideas of places to go on their own.
-  - The card will serve to highlight the main positives of joining the community and show the welcoming nature of the group.
+  - The about us section card will allow the user to quickly see the benefits of joining in with the group, even if it is just for ideas of places to go on their own.
+  - The cards will serve to highlight the main positives of joining the community and show the welcoming nature of the group.
   - The user will see the benefit of signing up for the newsletter to get more in depth information about upcoming walks and group events.
 
-INSERT ABOUT US SCREENSHOT HERE
+<img width="1092" alt="about-us" src="https://user-images.githubusercontent.com/7358665/155906279-1a462211-51ae-4458-b51d-d88d670c4e7f.png">
 
 - __The Footer__ 
 
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
-  - The footer is valuable to the user as it encourages them to keep connected via social media.
+  - The footer section includes links to the relevant social media sites for Love Running. 
+  - The links will open to a new tab to allow easy navigation for the user. 
+  - The footer is valuable to the user as it encourages them to keep connected to the group via social media.
 
-INSERT FOOTER SCREENSHOT HERE
+<img width="580" alt="footer" src="https://user-images.githubusercontent.com/7358665/155906343-a88a1bf0-40cd-423d-98f9-2319fde8acc9.png">
 
 - __Upcoming Events page__
 
