@@ -66,7 +66,7 @@ Let's Go Walkies is a site that introduces people and their pets to a dog hiking
 
 - __The Footer__ 
   - Relevant User Story Example:
-    As a user visiting this webpage, I would like to quickly have acces to links that connect to relevent social pages for the website so I can further research the nformation given and it's relevance to my needs.
+    As a user visiting this webpage, I would like to quickly have acces to links that connect to relevent social pages for the website so I can further research the information given and it's relevance to my needs.
 
   - The footer section includes links to the relevant social media sites for Let's Go Walkies. 
   - The links will open to a new tab to allow easy navigation for the user. 
