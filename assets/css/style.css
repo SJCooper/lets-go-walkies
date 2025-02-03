@@ -99,7 +99,7 @@ header a {
     height: 1000px;
     width: 60%;
     overflow: hidden;
-    background: url('../images/jamie-street-zPHX8NscQ9o-unsplash.jpg') no-repeat center center;
+    background: url('../images/photo6.jpg') no-repeat center center;
     background-size: cover;
     float: left;
     background-position: center;
@@ -280,7 +280,7 @@ a.social-networks:hover i {
 #signup-image {
     height: 95vh;
     width: 100%;
-    background: url('../images/jamie-street-zPHX8NscQ9o-unsplash.jpg') no-repeat center center;
+    background: url('../images/photo6.jpg') no-repeat center center;
     background-size: cover;
 }
 
