@@ -45,12 +45,18 @@ Let's Go Walkies is a site that introduces people and their pets to a dog hiking
 
 - __The landing Page Hero Image and Headline__
 
+  - Relevant User Story Example:
+    As a user visiting this webpage, I would like to quickly view the landing page where relvent headline information is clearly obtainable so I can decide if the website is relevent to my needs.
+  
   - The landing page includes a hero image with headline text side by side to allow the user to see exactly who this site is aiming to connect with. 
   - This is the first thing someone visiting the site will see so is presented in a clear and concise way to convey the main site focus to the user.
 
 <img width="1580" alt="hero-headline" src="https://user-images.githubusercontent.com/7358665/155906196-25dee8fc-23c5-4179-b3e7-5fa5b8ffdb83.png">
 
 - __About Us Cards__
+
+  - Relevant User Story Example:
+    As a user visiting this webpage, I would like to quickly view the landing page and info cards below the fold where, the cards can give more specific information to me as a user who has decided to look through the main page.
 
   - The about us section card will allow the user to quickly see the benefits of joining in with the group, even if it is just for ideas of places to go on their own.
   - The cards will serve to highlight the main positives of joining the community and show the welcoming nature of the group.
@@ -59,6 +65,8 @@ Let's Go Walkies is a site that introduces people and their pets to a dog hiking
 <img width="1092" alt="about-us" src="https://user-images.githubusercontent.com/7358665/155906279-1a462211-51ae-4458-b51d-d88d670c4e7f.png">
 
 - __The Footer__ 
+  - Relevant User Story Example:
+    As a user visiting this webpage, I would like to quickly have acces to links that connect to relevent social pages for the website so I can further research the nformation given and it's relevance to my needs.
 
   - The footer section includes links to the relevant social media sites for Let's Go Walkies. 
   - The links will open to a new tab to allow easy navigation for the user. 
@@ -68,6 +76,8 @@ Let's Go Walkies is a site that introduces people and their pets to a dog hiking
 <img width="580" alt="footer" src="https://user-images.githubusercontent.com/7358665/155906343-a88a1bf0-40cd-423d-98f9-2319fde8acc9.png">
 
 - __Upcoming Events__
+  - Relevant User Story Example:
+    As a user visiting this webpage, I would like to quickly view the upcoming events page and gather relevant date, time and location information for any meetings I would like to attend.
 
   - This page will allow the user to see upcoming group meets, when they will happen, and where exactly they will be held using embedded google maps. 
   - This pages content will be easy to maintain and update and will keep the required information in an easy to find and read area. 
@@ -75,6 +85,8 @@ Let's Go Walkies is a site that introduces people and their pets to a dog hiking
 <img width="1115" alt="upcoming" src="https://user-images.githubusercontent.com/7358665/155906505-9f37d7b0-8521-4e4d-869e-3cd884366fb7.png">
 
 - __Gallery__
+  - Relevant User Story Example:
+    As a user visiting this webpage, I would like to quickly view the gallery page to see various examples of what to expect from this pages social group and events, making it easier for me to decide if the group is relevant to my needs.
 
   - The gallery page will provide the user with supporting images to see what the meet ups look like as events. 
   - This section is valuable to the user as they can see the types of walks the group has completed in the past. 
@@ -84,6 +96,8 @@ Let's Go Walkies is a site that introduces people and their pets to a dog hiking
 <img width="1301" alt="gallery-min" src="https://user-images.githubusercontent.com/7358665/155906666-bfa22709-17f7-4941-b34a-7854596123b5.png">
 
 - __The Sign Up Page__
+  - Relevant User Story Example:
+    As a user visiting this webpage, I would like to quickly view the sign up page so I can sign up and recieve relevant up to date information from the group and to get involved.
 
   - This page will allow the user to sign up to Let's Go Walkies newsletters mailing list. 
   - The user will be able to specify how many dogs and of what breeds they are. This can help facilitate introductions between the group and may help the user to find commanalities with current members.
@@ -93,6 +107,8 @@ Let's Go Walkies is a site that introduces people and their pets to a dog hiking
 <img width="1301" alt="signup-min" src="https://user-images.githubusercontent.com/7358665/155907500-9b471536-8e6a-4cec-951d-ea6cfe6cac44.png">
 
 - __The 404 Page__
+  - Relevant User Story Example:
+    As a user visiting this webpage, I would like to view the 404 page if I accidently navigate to a URL that is not present on the site. So I can link back to the content proper and continue looking up information on the correct pages.
 
   - This page will allow the user to find their way back to the main site pages in the event they reach a 404 page link by mistake. 
   - The 404 page clearly states to the user that the nav links are to be used to relocate back to normal site navigation.
