@@ -30,6 +30,11 @@ Let's Go Walkies is a site that introduces people and their pets to a dog hiking
 
 - __Navigation Bar__
 
+  - Relevant User Story Example:
+    As a user visiting this webpage
+    I would like to quickly see what information is provided and available
+    So I can decide wether it is relevent to what I am searching for
+  
   - Featured on all pages, the fully responsive navigation bar includes links to the Home page (from the site logo and home page navigation link), Upcoming events page, Gallery page and Sign Up page.
   - The navigation bar is identical on each page to allow for easy site and page navigation. 
   - The navigation link of the currently viewed page is displayed differently (complete solid border) to allow the user to quicky see what part of the site they are viewing.
